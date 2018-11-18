@@ -1,7 +1,6 @@
 # Zamservice
-> Fully Featured Nodejs Express Bolierplate
+> Online Service Directory
 
-Expressojs is a nodejs express based application bolierplate to help developers quickly bootstrap a nodejs application
 
 
 ## Installation
