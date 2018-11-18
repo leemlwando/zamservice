@@ -14,7 +14,7 @@ git clone https://github.com/leemlwando/zamservice.git
 #Running Application
 
 ```sh
-cd expressojs
+cd zamservice
 yarn install
 export NODE_ENV=production && yarn run start
 ```
@@ -25,6 +25,7 @@ export NODE_ENV=production && yarn run start
 In order to run this app in development mode, just change NODE_ENV to development like so:
 
 ```sh
+cd zamservice
 yarn install
 export NODE_ENV=development && yarn run dev
 
@@ -37,6 +38,6 @@ Lee M. Lwando – [@leemlwando](https://twitter.com/leemlwando) – leemlwando@g
 
 ## Contributing
 
-1. Fork it (<https://github.com/leemlwando/expressojs.git/>)
+1. Fork it (<https://github.com/leemlwando/zamservice.git/>)
 
 
