@@ -30,7 +30,7 @@
   "scripts": {
     "tests": "mocha",
     "start": "export NODE_ENV=production && node ./www",
-    "dev": "export NODE_ENV=development && nodemon ./www"
+    "dev": "nodemon ./www"
   },
   "devDependencies": {
     "chai": "^4.2.0",
